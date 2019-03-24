@@ -1,0 +1,4 @@
+.gitignore.swp
+CMakeLists.txt
+cmake-build-debug
+.idea/
